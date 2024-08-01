@@ -1,5 +1,5 @@
 大元（ベース）：https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py<br>
-original（@s-rinta） : https://github.com/rintaro-s/webcam_face_recognition<br>
+original（@rintaro-s） : https://github.com/rintaro-s/webcam_face_recognition<br>
 
 3人まで顔登録対応<br>
 
